@@ -1,0 +1,7 @@
+D:\##Cea\Cea.Lorenzo\Cea.Lorenzo.2D\bin\Debug\Cea.Lorenzo.2D.exe.config
+D:\##Cea\Cea.Lorenzo\Cea.Lorenzo.2D\bin\Debug\Cea.Lorenzo.2D.exe
+D:\##Cea\Cea.Lorenzo\Cea.Lorenzo.2D\bin\Debug\Cea.Lorenzo.2D.pdb
+D:\##Cea\Cea.Lorenzo\Cea.Lorenzo.2D\obj\Debug\Cea.Lorenzo.2D.csprojAssemblyReference.cache
+D:\##Cea\Cea.Lorenzo\Cea.Lorenzo.2D\obj\Debug\Cea.Lorenzo.2D.csproj.CoreCompileInputs.cache
+D:\##Cea\Cea.Lorenzo\Cea.Lorenzo.2D\obj\Debug\Cea.Lorenzo.2D.exe
+D:\##Cea\Cea.Lorenzo\Cea.Lorenzo.2D\obj\Debug\Cea.Lorenzo.2D.pdb

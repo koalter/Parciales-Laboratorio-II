@@ -1,0 +1,10 @@
+D:\##Cea\Cea.Lorenzo\VistaConsola\bin\Debug\VistaConsola.exe.config
+D:\##Cea\Cea.Lorenzo\VistaConsola\bin\Debug\VistaConsola.exe
+D:\##Cea\Cea.Lorenzo\VistaConsola\bin\Debug\VistaConsola.pdb
+D:\##Cea\Cea.Lorenzo\VistaConsola\bin\Debug\Entidades.dll
+D:\##Cea\Cea.Lorenzo\VistaConsola\bin\Debug\Entidades.pdb
+D:\##Cea\Cea.Lorenzo\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+D:\##Cea\Cea.Lorenzo\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+D:\##Cea\Cea.Lorenzo\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+D:\##Cea\Cea.Lorenzo\VistaConsola\obj\Debug\VistaConsola.exe
+D:\##Cea\Cea.Lorenzo\VistaConsola\obj\Debug\VistaConsola.pdb
